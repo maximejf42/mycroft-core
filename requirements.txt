@@ -1,5 +1,5 @@
 six==1.10.0
-requests==2.19.1
+requests==2.20
 gTTS==1.1.7
 gTTS-token==1.1.1
 backports.ssl-match-hostname==3.4.0.2
@@ -36,3 +36,5 @@ petact==0.1.2
 
 # dev setup tools
 pep8==1.7.0
+protobuf>=3.18.3 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=1.26.5 # not directly required, pinned by Snyk to avoid a vulnerability
