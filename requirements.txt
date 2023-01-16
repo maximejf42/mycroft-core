@@ -9,7 +9,7 @@ SpeechRecognition==3.8.1
 tornado==4.2.1
 websocket-client==0.32.0
 futures==3.0.3
-future==0.16.0
+future==0.18.3
 requests-futures==0.9.5
 pyyaml==3.11
 pyalsaaudio==0.8.2
